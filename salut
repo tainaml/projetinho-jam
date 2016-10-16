@@ -9,6 +9,9 @@
     <h1>salut monde!</h1>
             <p> Je m'appelle Taina et j'aime des animaux et la vie.  
                 Et toi? Tu aimes la vie aussi?
+               oui <input type="radio" name = sim> 
+               non <input type="radio" name = sim> 
+                
             </p>
     
         </body>
